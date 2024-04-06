@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtilsReactApp-LearningReactApp/static/css/main.dc4d6ff2.css",
+    "main.js": "/TextUtilsReactApp-LearningReactApp/static/js/main.3f514c95.js",
+    "static/js/453.3a27c80b.chunk.js": "/TextUtilsReactApp-LearningReactApp/static/js/453.3a27c80b.chunk.js",
+    "index.html": "/TextUtilsReactApp-LearningReactApp/index.html",
+    "main.dc4d6ff2.css.map": "/TextUtilsReactApp-LearningReactApp/static/css/main.dc4d6ff2.css.map",
+    "main.3f514c95.js.map": "/TextUtilsReactApp-LearningReactApp/static/js/main.3f514c95.js.map",
+    "453.3a27c80b.chunk.js.map": "/TextUtilsReactApp-LearningReactApp/static/js/453.3a27c80b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.3f514c95.js"
+  ]
+}
